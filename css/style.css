@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #06A3DA;
+    --primary: #ef0d0d;
     --secondary: #F57E57;
     --light: #EEF9FF;
-    --dark: #091E3E;
+    --dark: #db1010;
 }
 
 h1,
@@ -130,7 +130,7 @@ h6,
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(9, 30, 62, .85);
+    background: rgba(241, 55, 55, 0.85);
     z-index: 1;
 }
 
@@ -200,7 +200,7 @@ h6,
 }
 
 .appointment-form {
-    background: rgba(6, 163, 218, .7);
+    background: rgba(218, 6, 6, 0.7);
 }
 
 .service-item img,
@@ -240,7 +240,7 @@ h6,
 }
 
 .offer-text {
-    background: rgba(6, 163, 218, .85);
+    background: rgba(218, 6, 6, 0.85);
 }
 
 .price-carousel .owl-nav {
